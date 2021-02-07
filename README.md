@@ -1,10 +1,10 @@
-### Date created: 07/Feb/2021
+### 07/Feb/2021
 Include the date you created this project and README file.
 
-### Project Title
+### Bikeshare
 Replace the Project Title
 
-### Description
+### This is a python code of exploring three city's bike use data.
 Describe what your project is about and what it does
 
 ### Files used
