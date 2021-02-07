@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-This is a python code of exploring three city's bike use data
+This is a python code of exploring bike use data for Chicago, New York City and Washington.
 
 ### Files Used
 chicago.csv
